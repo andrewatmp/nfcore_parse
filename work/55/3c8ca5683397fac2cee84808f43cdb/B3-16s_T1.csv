@@ -1,0 +1,5 @@
+Taxonomic_Classification,Read_Count,Genus_Species,Genus_Species_Limited,Relative_Abundance
+k__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__coli,1175.0,Escherichia coli,<i>Escherichia coli</i>,48.81595346904861
+k__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__albertii,440.0,Escherichia albertii,<i>Escherichia albertii</i>,18.280016618196925
+k__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Shigella;s__boydii,398.0,Shigella boydii,<i>Shigella boydii</i>,16.5351059410054
+k__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Shigella;s__sonnei,394.0,Shigella sonnei,<i>Shigella sonnei</i>,16.368923971749066
