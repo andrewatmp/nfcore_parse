@@ -248,7 +248,7 @@ process MAKETABLE {
     container 'andrewatmp/plot2'
     stageInMode 'copy'
     stageOutMode 'copy'
-    publishDir "$projectDir/results/results_${sample_id}", mode: 'copy'
+    publishDir "${params.outdir}", mode: 'copy'
 
     input:
     tuple path(species_csv), val(sample_id)
