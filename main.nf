@@ -26,7 +26,7 @@ println "reads: $params.reads"
 
 process IMPORT {
     tag "Importing sequences ${sample_id}"
-    container "testf"
+    container "andrewatmp/testf"
     publishDir "$projectDir/results/results_${sample_id}"
 
     input:
@@ -55,7 +55,7 @@ process IMPORT {
 process DADA {
 
     tag "Dada2 Error Correction"
-    container "testf"
+    container "andrewatmp/testf"
 
 
     input:
