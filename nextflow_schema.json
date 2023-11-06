@@ -32,11 +32,7 @@
                 "RefSeqs": {
                     "type": "string",
                     "description": "Qiime artifact for reference dna sequences",
-                    "fa_icon": "fas fa-folder-open",
-                    "enum": [
-                        "ncbi.qza",
-                        "greengenes.qza"
-                    ]
+                    "fa_icon": "fas fa-folder-open"
                 },
                 "RefTax": {
                     "type": "string",
