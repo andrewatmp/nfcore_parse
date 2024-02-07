@@ -1,2 +1,3 @@
 sample,fastq_1,fastq_2
-P18,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P18_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P18_16S_L001_R2_001.fastq.gz
+P21,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P21_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P21_16S_L001_R2_001.fastq.gz
+P24,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P24_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P24_16S_L001_R2_001.fastq.gz
