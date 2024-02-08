@@ -1,5 +1,14 @@
 sample,fastq_1,fastq_2
-PO7,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO7_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO7_16S_L001_R2_001.fastq.gz
-PO8,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO8_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO8_16S_L001_R2_001.fastq.gz
-PO1,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO1_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO1_16S_L001_R2_001.fastq.gz
-PO4,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO4_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO4_16S_L001_R2_001.fastq.gz
+ZF,s3://mp-bioinfo/sequencing/Sample Data/in2116_500V3V4_R1.fastq.gz, s3://mp-bioinfo/sequencing/Sample Data/in2116_500V3V4_R2.fastq.gz
+P34,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P34_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P34_16S_L001_R2_001.fastq.gz
+P35,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P35_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P35_16S_L001_R2_001.fastq.gz
+P37,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P37_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P37_16S_L001_R2_001.fastq.gz
+P38,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P38_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P38_16S_L001_R2_001.fastq.gz
+P40,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P40_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P40_16S_L001_R2_001.fastq.gz
+P41,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P41_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P41_16S_L001_R2_001.fastq.gz
+P42,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P42_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P42_16S_L001_R2_001.fastq.gz
+P43,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P43_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P43_16S_L001_R2_001.fastq.gz
+P44,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P44_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P44_16S_L001_R2_001.fastq.gz
+P46,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P46_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P46_16S_L001_R2_001.fastq.gz
+PO5,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO5_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO5_16S_L001_R2_001.fastq.gz
+PO6,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO6_16S_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/PO6_16S_L001_R2_001.fastq.gz
