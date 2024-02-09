@@ -1,3 +1,2 @@
 sample,fastq_1,fastq_2
-NY261,s3://mp-bioinfo/sequencing/2023.0313_Ill_16S_Mock_Ecoli/NY26-1_S1_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2023.0313_Ill_16S_Mock_Ecoli/NY26-1_S1_L001_R2_001.fastq.gz
-NY262,s3://mp-bioinfo/sequencing/2023.0313_Ill_16S_Mock_Ecoli/NY26-2_S2_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2023.0313_Ill_16S_Mock_Ecoli/NY26-2_S2_L001_R2_001.fastq.gz
+P13,s3://mp-bioinfo/sequencing/2023.0823_Ill_16s_ITS_AMR/mR369-L1-P13-CTTATGGAAT-CGCTCCACGA-READ1-Sequences.txt.gz,s3://mp-bioinfo/sequencing/2023.0823_Ill_16s_ITS_AMR/mR369-L1-P13-CTTATGGAAT-CGCTCCACGA-READ2-Sequences.txt.gz
