@@ -1,2 +1,2 @@
 sample,fastq_1,fastq_2
-P13,s3://mp-bioinfo/sequencing/2023.0823_Ill_16s_ITS_AMR/mR369-L1-P13-CTTATGGAAT-CGCTCCACGA-READ1-Sequences.txt.gz,s3://mp-bioinfo/sequencing/2023.0823_Ill_16s_ITS_AMR/mR369-L1-P13-CTTATGGAAT-CGCTCCACGA-READ2-Sequences.txt.gz
+P0410k,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P0410k_16s_L001_R1_001.fastq.gz,s3://mp-bioinfo/sequencing/2024.0123_Ill_16s_ITS_AMR/P0410k_16s_L001_R2_001.fastq.gz
